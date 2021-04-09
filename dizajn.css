@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to top left, #4A148C, #C51162);
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.parametre{
+    width: 250px;
+    height: 100px;
+    font-size: xx-large;
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+
+.hodnoty{
+    width: 375px;
+    height: 30px;
+    font-size: large;
+    text-align: center;
+}
+
+.formular{
+
+    width: 35%;
+    margin:2em auto;
+
+    padding: 30px 40px 20px 40px;
+
+}
